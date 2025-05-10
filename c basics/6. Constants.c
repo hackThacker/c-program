@@ -1,4 +1,3 @@
-// created by HackTHacker
 #include <stdio.h>
 
 int main() {
@@ -7,9 +6,7 @@ int main() {
     // Printing the value of the constant
     printf("%d\n", minutesPerHour);
 
-    const int BIRTHYEAR = 1980;
-
-  printf("%d", BIRTHYEAR);
+    
 
     return 0;
 }
